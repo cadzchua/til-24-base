@@ -1,6 +1,10 @@
-transformers==4.31.0
+transformers==4.36.0
 librosa==0.10.1
 fastapi
 accelerate
 uvicorn[standard]
 pandas==2.0.3
+
+torch==2.2.0
+torchaudio
+inflect==6.0.2
